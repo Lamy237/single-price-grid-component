@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Single price grid component](https://www.frontendmentor.io/solutions/single-price-grid-component-146zyt-8yQ)
 - Live Site URL: [siprico](siprico.netlify.app)
 
 
