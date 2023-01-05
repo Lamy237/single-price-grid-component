@@ -27,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![solution-screenshot](https://user-images.githubusercontent.com/89041260/210889490-4382ca6d-30e5-475c-a73b-ecb4e66e1ec0.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [siprico](siprico.netlify.app)
 
 
 ## My process
